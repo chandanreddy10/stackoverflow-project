@@ -1,14 +1,15 @@
 # stackoverflow-project
-### Data analysis
+## Data analysis
 #### 1. Finding the top 10 topics that users discuss on stackoverflow.
 #### 2. Finding the top 10 countries where most users are based out of.
 #### 3. Top 15 questions on stackoverflow between Sep-1 to Dec-6 (2022).
 #### 4. Trend(rankings) of various topics between Sep-1 to Dec-6(2022).
 
-### The prediction task
+
+## The prediction task
 #### To find whether a question would be answered or not based on views, votes, and tags.
 
-### Tools used
+## Tools used
 #### -Beautiful Soup (To collect data)
 #### -Pandas, matplotlib,sklearn, numpy
 
