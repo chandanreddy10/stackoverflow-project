@@ -5,5 +5,4 @@
 ## The prediction task
 ### To find whether a question would be answered or not. here, features include question views, votes and tags. Models used are logistic regression, svm and random forest classifier.
 ## Libraries used.<br> | Beautiful Soup | Pandas | matplotlib | sklearn | numpy |<br>
-### This Repo includes the datasets i used for my project-(stack_overflow_questions_data.csv  and  user-details.csv) 
-### data_collection.py and user-details.py are both for data collection.
+### This Repo includes the datasets i used for my project-(stack_overflow_questions_data.csv  and  user-details.csv)<br>data_collection.py and user-details.py are both for data collection.
