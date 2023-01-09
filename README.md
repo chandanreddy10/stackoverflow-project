@@ -1,6 +1,6 @@
 # Analysis and prediction on Stackoverflow Data <br>
-##Data Analysis include.<br>
-#### 1. Finding the top 10 topics that users discuss on stackoverflow.<br>2. Finding the top 10 countries where most users are based out of.<br>3. Top 15 questions on stackoverflow between Sep-1 to Dec-6 (2022).<br>4. Trend(rankings) of various topics between Sep-1 to Dec-6(2022).<br>
+## Data Analysis include.<br>
+### 1. Finding the top 10 topics that users discuss on stackoverflow.<br>2. Finding the top 10 countries where most users are based out of.<br>3. Top 15 questions on stackoverflow between Sep-1 to Dec-6 (2022).<br>4. Trend(rankings) of various topics between Sep-1 to Dec-6(2022).<br>
 
 
 ## The prediction task
